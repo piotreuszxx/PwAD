@@ -1,0 +1,12 @@
+<root>
+    <row>
+        <przystanek>Dworzec</przystanek>
+        <dzien>roboczy</dzien>
+        <czas>08:10</czas>
+    </row>
+    <row>
+        <przystanek>Dworzec</przystanek>
+        <dzien>roboczy</dzien>
+        <czas>08:30</czas>
+    </row>
+</root>
